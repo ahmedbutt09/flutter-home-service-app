@@ -1,0 +1,19 @@
+name: home_services
+description: A responsive home services booking app.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  animate_do: ^4.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
