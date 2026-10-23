@@ -8,19 +8,19 @@ HomeServe Pro is a demo home services marketplace built with **Flutter and Dart*
 
 ![HomeServe Pro Screenshot 2](screenshots/2.jpg)
 
-![HomeServe Pro Screenshot 3](screenshots/1.jpg)
+![HomeServe Pro Screenshot 3](screenshots/3.jpg)
 
-![HomeServe Pro Screenshot 4](screenshots/2.jpg)
+![HomeServe Pro Screenshot 4](screenshots/4.jpg)
 
-![HomeServe Pro Screenshot 5](screenshots/1.jpg)
+![HomeServe Pro Screenshot 5](screenshots/5.jpg)
 
-![HomeServe Pro Screenshot 6](screenshots/2.jpg)
+![HomeServe Pro Screenshot 6](screenshots/6.jpg)
 
-![HomeServe Pro Screenshot 7](screenshots/1.jpg)
+![HomeServe Pro Screenshot 7](screenshots/7.jpg)
 
-![HomeServe Pro Screenshot 8](screenshots/2.jpg)
+![HomeServe Pro Screenshot 8](screenshots/8.jpg)
 
-![HomeServe Pro Screenshot 9](screenshots/1.jpg)
+![HomeServe Pro Screenshot 9](screenshots/9.jpg)
 
 ![HomeServe Pro Screenshot 10](screenshots/10.jpg)
 
